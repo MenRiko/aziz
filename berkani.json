@@ -1,0 +1,212 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+    "Songs" :[
+      {
+         "song_name":" Khayf N3tiha Drahmi",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/01. Khayf N3tiha Drahmi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Reggada",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/02. Reggada.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Raki Soursi",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/03. Raki Soursi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Belhadra 9etltouna",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/04. Belhadra 9etltouna.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Lbarman Jib W Zid",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/05. Lbarman Jib W Zid.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Bnat Lyoum Zyanou",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Simou Lagui Lag 2015/06. Bnat Lyoum Zyanou.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Allo Allo Ya 3ayniya",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/01. Allo Allo Ya 3ayniya.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Bent Ljar",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/02. Bent Ljar.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Chkoun Howa Wela Ana Sahbek",
+         "artist":"عزيز البركاني",
+         "song_link":"music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/03. Chkoun Howa Wela Ana Sahbek.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Hawlou 3liya Lpolice W jadarmiya",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/04. Hawlou 3liya Lpolice W jadarmiya.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Hawlouna Lbnat",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/05. Hawlouna Lbnat.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"jarti",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/06. jarti.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Lhbiba Dyali Hbila",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/07. Lhbiba Dyali Hbila.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Mebrouk 3lik Tomoubil",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani Et Cheb Mamou 2014/08. Mebrouk 3lik Tomoubil.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"damis confiance",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/01. damis confiance.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"dayrani-ghi-secours",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/02. dayrani-ghi-secours.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"fhemt walo",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/03. fhemt walo.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"hewloni",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/04. hewloni.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"kolchi wela b credit",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/05. kolchi wela b credit.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"mnin nehder f tilifoun",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/06. mnin nehder f tilifoun.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"sghira mineur",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/07. sghira mineur.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"tfouti diri chiki",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Kolchi Wela B L Credit/08. tfouti diri chiki.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Europa Gaa Chafnaha",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/01. Europa Gaa Chafnaha.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Walit Sekayri",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/02. Walit Sekayri.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Mazel Nebghik",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/03. Mazel Nebghik.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Laaba Laabet Biya",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/04. Laaba Laabet Biya.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Naamer Rassi",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/05. Naamer Rassi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Kamlatni Ya Labnia",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/06. Kamlatni Ya Labnia.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Lila Be Lila",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/07. Lila Be Lila.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Kobi Kobi",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/08. Kobi Kobi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Ghir Ma Li Tebghini",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/09. Ghir Ma Li Tebghini.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Mohal Galbi Yebghik",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/10. Mohal Galbi Yebghik.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Aamer El Kass",
+         "artist":"عزيز البركاني",
+         "song_link":"https://www.nozika.co/music/Rai Aroubi Et Raggada/Aziz El Berkani - Europa Gaa Chafnaha 2013/11. Aamer El Kass.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      }
+   ]
+}
